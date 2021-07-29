@@ -1,9 +1,0 @@
-25/07/2021 12:18:02 AM || urllib3.connectionpool || DEBUG || Starting new HTTPS connection (1): type.fit:443
-25/07/2021 12:18:03 AM || urllib3.connectionpool || DEBUG || https://type.fit:443 "GET /api/quotes?fbclid=IwAR066CVqn2qdvUIEBui3J2r-xre3ZcaQrfKJkqJmf4Drj2FH-qgW1DgcD4c HTTP/1.1" 200 63332
-25/07/2021 12:18:03 AM || app_modules.models || DEBUG || Text too long to be displayed, trying again...
-25/07/2021 12:18:03 AM || __main__ || INFO || Started a reminder app
-25/07/2021 12:18:06 AM || app_modules.controller || DEBUG || Trying to create addialog instance
-25/07/2021 12:18:06 AM || app_modules.controller || DEBUG || Created addialog instance
-25/07/2021 12:18:08 AM || app_modules.models || DEBUG || Tryout of addition of a "123131" task to database
-25/07/2021 12:18:08 AM || app_modules.models || INFO || Task "123131" successfully added to a database
-25/07/2021 12:18:08 AM || app_modules.controller || DEBUG || Dialog form has been accepted, closing the dialog window...
