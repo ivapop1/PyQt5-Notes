@@ -1,0 +1,3 @@
+26/07/2021 02:05:36 PM || urllib3.connectionpool || DEBUG || Starting new HTTPS connection (1): type.fit:443
+26/07/2021 02:05:37 PM || urllib3.connectionpool || DEBUG || https://type.fit:443 "GET /api/quotes?fbclid=IwAR066CVqn2qdvUIEBui3J2r-xre3ZcaQrfKJkqJmf4Drj2FH-qgW1DgcD4c HTTP/1.1" 200 63332
+26/07/2021 02:05:37 PM || __main__ || INFO || Started a reminder app
